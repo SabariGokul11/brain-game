@@ -13,7 +13,7 @@ pipeline {
             steps {
                 sh 'pwd'
                 sh 'ls -la'
-                sh 'ls -la memory-game'
+                sh 'ls -la cicd-game'
             }
         }
 
